@@ -2,12 +2,12 @@
 /*      GLOBAL CSS PORTFOLIO FIXED    */
 /* ================================== */
 
+/* IMPORT FONT (WAJIB PALING ATAS) */
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* IMPORT FONT */
-@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap");
 
 /* --------------------------- */
 /*          ROOT & THEME       */
